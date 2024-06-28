@@ -115,3 +115,12 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+
+## KR Updates to the file
+- Created a copy in the local
+- updated the readme.md file with information on what i have done
+- staged the file
+- commited the file
+- synced the file
+- created a syncrequest for the file
